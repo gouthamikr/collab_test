@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 GIT
 LINUX
+=======
+LINUX
+GIT
+>>>>>>> 65cff0eaca8c18daa699cb32e333fb7697fbc69c
